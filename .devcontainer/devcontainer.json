@@ -1,0 +1,5 @@
+{
+  "name": "Upgraded Kali Linux OpenCode Setup",
+  "image": "kalilinux/kali-rolling",
+  "postCreateCommand": "apt-get update && apt-get install -y curl unzip && npm install -g opencode-ai && echo 'alias oc=\"opencode\"' >> ~/.bashrc"
+
