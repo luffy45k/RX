@@ -1,0 +1,387 @@
+[
+    {
+        "timestamp": "2026-09-02 03:47:21.019691",
+        "type": "Manual Keyboard Input (Today Number)",
+        "input": "Today Number",
+        "generated_jodi": 32
+    },
+    {
+        "timestamp": "2026-09-02 03:57:05.052157",
+        "market": "BIG BAZAR DAY",
+        "input": "Using pure math & pattern equations.",
+        "board": "165-23-179"
+    },
+    {
+        "date": "31/12/12 - 5/01/13",
+        "mon": "51",
+        "tue": "29",
+        "wed": "50",
+        "thu": "18",
+        "fri": "84",
+        "sat": "17"
+    },
+    {
+        "date": "7/01/13 - 12/01/13",
+        "mon": "99",
+        "tue": "96",
+        "wed": "33",
+        "thu": "96",
+        "fri": "67",
+        "sat": "26"
+    },
+    {
+        "date": "14/01/13 - 19/01/13",
+        "mon": "**",
+        "tue": "17",
+        "wed": "88",
+        "thu": "99",
+        "fri": "28",
+        "sat": "96"
+    },
+    {
+        "period": "29/09/25 to 04/10/25",
+        "mon": "71",
+        "tue": "79",
+        "wed": "73",
+        "thu": "87",
+        "fri": "80",
+        "sat": "19"
+    },
+    {
+        "period": "06/10/25 to 11/10/25",
+        "mon": "12",
+        "tue": "96",
+        "wed": "79",
+        "thu": "36",
+        "fri": "84",
+        "sat": "97"
+    },
+    {
+        "period": "13/10/25 to 18/10/25",
+        "mon": "40",
+        "tue": "85",
+        "wed": "95",
+        "thu": "31",
+        "fri": "15",
+        "sat": "**"
+    },
+    {
+        "period": "27/10/25 to 01/11/25",
+        "mon": "59",
+        "tue": "44",
+        "wed": "59",
+        "thu": "42",
+        "fri": "90",
+        "sat": "08"
+    },
+    {
+        "period": "03/11/25 to 08/11/25",
+        "mon": "55",
+        "tue": "02",
+        "wed": "23",
+        "thu": "00",
+        "fri": "05",
+        "sat": "27"
+    },
+    {
+        "period": "10/11/25 to 15/11/25",
+        "mon": "91",
+        "tue": "16",
+        "wed": "84",
+        "thu": "20",
+        "fri": "84",
+        "sat": "47"
+    },
+    {
+        "period": "17/11/25 to 22/11/25",
+        "mon": "52",
+        "tue": "96",
+        "wed": "53",
+        "thu": "11",
+        "fri": "70",
+        "sat": "82"
+    },
+    {
+        "period": "24/11/25 to 29/11/25",
+        "mon": "91",
+        "tue": "97",
+        "wed": "67",
+        "thu": "79",
+        "fri": "09",
+        "sat": "87"
+    },
+    {
+        "period": "01/12/25 to 06/12/25",
+        "mon": "78",
+        "tue": "52",
+        "wed": "12",
+        "thu": "72",
+        "fri": "64",
+        "sat": "17"
+    },
+    {
+        "period": "08/12/25 to 13/12/25",
+        "mon": "16",
+        "tue": "43",
+        "wed": "78",
+        "thu": "91",
+        "fri": "27",
+        "sat": "30"
+    },
+    {
+        "period": "15/12/25 to 20/12/25",
+        "mon": "64",
+        "tue": "30",
+        "wed": "97",
+        "thu": "55",
+        "fri": "97",
+        "sat": "39"
+    },
+    {
+        "period": "22/12/25 to 27/12/25",
+        "mon": "33",
+        "tue": "38",
+        "wed": "53",
+        "thu": "32",
+        "fri": "84",
+        "sat": "82"
+    },
+    {
+        "period": "29/12/25 to 03/01/2026",
+        "mon": "60",
+        "tue": "57",
+        "wed": "36",
+        "thu": "94",
+        "fri": "52",
+        "sat": "68"
+    },
+    {
+        "period": "05/01/2026 to 10/01/2026",
+        "mon": "04",
+        "tue": "46",
+        "wed": "65",
+        "thu": "04",
+        "fri": "04",
+        "sat": "74"
+    },
+    {
+        "period": "12/01/2026 to 17/01/2026",
+        "mon": "77",
+        "tue": "51",
+        "wed": "04",
+        "thu": "34",
+        "fri": "55",
+        "sat": "42"
+    },
+    {
+        "period": "19/01/2026 to 24/01/2026",
+        "mon": "02",
+        "tue": "39",
+        "wed": "06",
+        "thu": "67",
+        "fri": "69",
+        "sat": "54"
+    },
+    {
+        "period": "26/01/2026 to 31/01/2026",
+        "mon": "**",
+        "tue": "76",
+        "wed": "59",
+        "thu": "35",
+        "fri": "12",
+        "sat": "70"
+    },
+    {
+        "date": "25/05/2026 to 30/05/2026",
+        "open": "572",
+        "jodi": "71",
+        "close": "127",
+        "panna_close": "290"
+    },
+    {
+        "date": "01/06/2026 to 06/06/2026",
+        "open": "202",
+        "jodi": "38",
+        "close": "118",
+        "panna_close": "380"
+    },
+    {
+        "date": "08/06/2026 to 13/06/2026",
+        "open": "459",
+        "jodi": "62",
+        "close": "329",
+        "panna_close": "475"
+    },
+    {
+        "date": "15/06/2026 to 20/06/2026",
+        "open": "155",
+        "jodi": "23",
+        "close": "618",
+        "panna_close": "738"
+    },
+    {
+        "date": "22/06/2026 to 27/06/2026",
+        "open": "479",
+        "jodi": "34",
+        "close": "146",
+        "panna_close": "820"
+    },
+    {
+        "date": "29/06/2026 to 04/07/2026",
+        "open": "256",
+        "jodi": "06",
+        "close": "828",
+        "panna_close": "438"
+    },
+    {
+        "date": "06/07/2026 to 11/07/2026",
+        "open": "478",
+        "jodi": "75",
+        "close": "325",
+        "panna_close": "457"
+    },
+    {
+        "date": "13/07/2026 to 18/07/2026",
+        "open": "124",
+        "jodi": "01",
+        "close": "647",
+        "panna_close": "368"
+    },
+    {
+        "date": "20/07/2026 to 25/07/2026",
+        "open": "599",
+        "jodi": "31",
+        "close": "279",
+        "panna_close": "256"
+    },
+    {
+        "date": "27/07/2026 to 01/08/2026",
+        "open": "200",
+        "jodi": "26",
+        "close": "839",
+        "panna_close": "619"
+    },
+    {
+        "date": "03/08/2026 to 08/08/2026",
+        "open": "568",
+        "jodi": "65",
+        "close": "780",
+        "panna_close": "799"
+    },
+    {
+        "date": "10/08/2026 to 15/08/2026",
+        "open": "138",
+        "jodi": "81",
+        "close": "234",
+        "panna_close": "567"
+    },
+    {
+        "date": "17/08/2026 to 22/08/2026",
+        "open": "157",
+        "jodi": "20",
+        "close": "527",
+        "panna_close": "214"
+    },
+    {
+        "date": "24/08/2026 to 29/08/2026",
+        "open": "680",
+        "jodi": "17",
+        "close": "127",
+        "panna_close": "459"
+    },
+    {
+        "market": "MADHUR MORNING",
+        "record": "486-83-599",
+        "math_index": 15
+    },
+    {
+        "market": "KALYAN",
+        "record": "288-88-189",
+        "math_index": 80
+    },
+    {
+        "market": "MILAN DAY",
+        "record": "984-13-292",
+        "math_index": 54
+    },
+    {
+        "market": "SRIDEVI",
+        "record": "660-22-697",
+        "math_index": 90
+    },
+    {
+        "market": "TIME BAZAR",
+        "record": "634-30-695",
+        "math_index": 79
+    },
+    {
+        "market": "MILAN DAY",
+        "record": "834-55-528",
+        "quantum_index": 32
+    },
+    {
+        "market": "SRIDEVI",
+        "record": "148-36-141",
+        "quantum_index": 91
+    },
+    {
+        "market": "MADHUR MORNING",
+        "record": "579-18-567",
+        "quantum_index": 40
+    },
+    {
+        "market": "TIME BAZAR",
+        "record": "839-03-580",
+        "quantum_index": 84
+    },
+    {
+        "market": "KALYAN",
+        "record": "830-15-375",
+        "quantum_index": 88
+    },
+    {
+        "market": "TIME BAZAR",
+        "record": "473-49-702",
+        "quantum_index": 6
+    },
+    {
+        "market": "KALYAN",
+        "record": "293-42-543",
+        "quantum_index": 0
+    },
+    {
+        "market": "SRIDEVI",
+        "record": "672-51-498",
+        "quantum_index": 39
+    },
+    {
+        "market": "SRIDEVI",
+        "record": "348-50-433",
+        "quantum_index": 2
+    },
+    {
+        "market": "MADHUR MORNING",
+        "record": "348-50-433",
+        "quantum_index": 2
+    },
+    {
+        "market": "MILAN DAY",
+        "record": "660-22-697",
+        "quantum_index": 12
+    },
+    {
+        "market": "MILAN DAY",
+        "record": "579-18-567",
+        "quantum_index": 40
+    },
+    {
+        "market": "KALYAN",
+        "record": "579-18-567",
+        "quantum_index": 40
+    },
+    {
+        "market": "MADHUR MORNING",
+        "record": "737-71-146",
+        "quantum_index": 30
+    }
+]
